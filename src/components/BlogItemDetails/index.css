@@ -1,0 +1,18 @@
+/* Write your CSS code here */
+.bg-container {
+  width: 80%;
+  padding: 30px;
+  height: 100vh;
+}
+.title {
+  font-size: 30px;
+  text-align: center;
+}
+.author-details {
+  display: flex;
+  align-items: center;
+}
+.item {
+  width: 100%;
+  height: 400px;
+}
